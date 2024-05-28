@@ -1,3 +1,16 @@
+# Instalação
+
+```
+npm install
+npx prisma migrate dev
+npm run dev
+```
+
+# Info
+
+A intenção deste projeto é mostrar as vantagens em usar Next 14 com App router
+https://medium.com/@stk.devtest/next-js-14-the-differences-between-app-router-and-page-router-bec51abcc4c3#:~:text=The%20App%20Router%20boasts%20better,offs%20between%20performance%20and%20simplicity.
+
 # Gestão de Profissionais
 
 ```
